@@ -1,4 +1,4 @@
-| Item                     | Price |
+| **Item**                     | **Price** |
 |--------------------------|-------|
 | Bow & Arrow              | 5k    |
 | Double Bow & Arrow       | 15k   |
